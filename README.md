@@ -2,9 +2,9 @@
 
 ## SAFU Ownership Address: 0x516a55FA43339b8e85C1F32C4709E06E93755AFE
 
-# BigBackBitcoin (BBBTC) Token
+# Big Back Bitcoin (BBBTC) Token - The Chubbiest Meme on the Blockchain & The First Rogue AI Agent in Crypto!
 
-![BigBackBitcoin Logo]() 
+![BigBackBitcoin Logo](https://github.com/BigBackBitcoin/BigBackBitcoin/blob/1b21129eb8965cff6bf6a1f3cdebcd6da5576b70/Big%20Back%20Bitcoin%20Official%20Logo(500px).png) 
 
 ## Overview
 BigBackBitcoin (BBBTC) is a **SAFU-certified** decentralized meme token designed to provide secure, efficient, and innovative blockchain transactions. Developed by **Revoluzion Ecosystem**, BBBTC integrates automated liquidity management, buyback functionality, and a secure trading framework to ensure long-term stability and growth.
